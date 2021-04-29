@@ -10,10 +10,13 @@
 ### Introduction
 This portfolio is my three favorite projects I did throughout my Computational Physics Course (PHY-2200) at High Point University. Throughout this class as a computer science major I was able to incorporate things I had learned throughout my computer science classes and use them to create physics models. The three projects I've decided to showcase are, Magnus Effect on a golf shot, the Rossler and Lorenz Model to dive deeper into Chaotic Behaviors, and lastly using Mel Spectograms in conjunction with AI to create a vowel classifier. The links below will bring you to a complete description of each in this README
 
+#### Descriptions
 - [Magnus Effect](#magnus-effect)
 - [Rossler and Lorenz Model](#rossler-and-lorenz-model)
 - [Vowel Classifier](#vowel-classifier)
 
+#### Links to Code/Folders
+- [Vowel Classifier Code](https://github.com/SpencerTP31/PHY_2200_Portfolio/tree/main/Vowel_Classifier)
 
 ---
 
@@ -47,6 +50,8 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 ## Vowel Classifier
 
 Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+
+[Go to Project](https://github.com/SpencerTP31/PHY_2200_Portfolio/tree/main/Vowel_Classifier)
 
 [Back To The Top](#portfolio-overview)
 
