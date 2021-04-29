@@ -16,24 +16,19 @@ This portfolio is my three favorite projects I did throughout my Computational P
 - [Vowel Classifier](#vowel-classifier)
 
 #### Links to Code/Folders
+- [Magnus Effect Code](https://github.com/SpencerTP31/PHY_2200_Portfolio/tree/main/Magnus_Effect)
+- [Rossler and Lorenz Model Code](https://github.com/SpencerTP31/PHY_2200_Portfolio/tree/main/Lorenz_Rossler)
 - [Vowel Classifier Code](https://github.com/SpencerTP31/PHY_2200_Portfolio/tree/main/Vowel_Classifier)
 
----
 
-### Table of Contents
-Below are quick access to my projects that I picked to display my work throughout the semester
-
-- [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
-- [License](#license)
-- [Author Info](#author-info)
 
 ---
 
 ## Magnus Effect
 
 Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+
+[Go to Project](https://github.com/SpencerTP31/PHY_2200_Portfolio/tree/main/Magnus_Effect)
 
 [Back To The Top](#portfolio-overview)
 
@@ -42,6 +37,8 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 ## Rossler and Lorenz Model
 
 Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+
+[Go to Project](https://github.com/SpencerTP31/PHY_2200_Portfolio/tree/main/Lorenz_Rossler)
 
 [Back To The Top](#portfolio-overview)
 
@@ -58,8 +55,12 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 ---
 #### Technologies
 
-- Technology 1
-- Technology 2
+- VPython
+- Jupyter Notebook
+- Conda 
+- Pytorch
+- Pyaudio
+- Many other python libraries
 
 
 ---
