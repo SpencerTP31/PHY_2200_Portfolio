@@ -1,4 +1,4 @@
-# Protfolio Overview
+# Portfolio Overview
 ### By Spencer Peters
 
 ![Project Image](https://github.com/SpencerTP31/PHY_2200_Portfolio/blob/main/WebbSchoolLogo.png)
@@ -32,11 +32,15 @@ Below are quick access to my projects that I picked to display my work throughou
 
 Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
 
+[Back To The Top](#portfolio-overview)
+
 --- 
 
 ## Rossler and Lorenz Model
 
 Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+
+[Back To The Top](#portfolio-overview)
 
 ---
 
@@ -44,41 +48,24 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
 
+[Back To The Top](#portfolio-overview)
+
 ---
 #### Technologies
 
 - Technology 1
 - Technology 2
 
-[Back To The Top](#read-me-template)
 
 ---
 
-## How To Use
 
-#### Installation
-
-
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
-
----
-
-## References
-[Back To The Top](#read-me-template)
-
----
 
 ## License
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) 2021 Spencer Peters
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -98,13 +85,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#portfolio-overview)
 
 ---
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Spencer Peters
+- speters1@highpoint.edu
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#portfolio-overview)
