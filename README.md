@@ -26,7 +26,7 @@ This portfolio is my three favorite projects I did throughout my Computational P
 
 ## Magnus Effect
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+In this project, I investigated the Magnus Effect on a golf ball during its flight. This was one of my most important discoveries during this class as I decided to go off the beaten path and research golf ball flights. I originally was going to model a figure that is shown in the book. When writing the code for this figure I kept getting a slightly different result which leads me to investigate and realize the author had not provided us with his air density and air resistance leading me to infer those. For a more detailed explanation see this [file](https://github.com/SpencerTP31/PHY_2200_Portfolio/blob/main/Magnus_Effect/02-project-peters.ipynb).
 
 [Go to Project](https://github.com/SpencerTP31/PHY_2200_Portfolio/tree/main/Magnus_Effect)
 
@@ -36,7 +36,7 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 ## Rossler and Lorenz Model
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+In this project, I was modeling the Lorenz model to see at what point a chaotic behavior was found. While doing this I stumbled upon the Rossler model which is a single point attractor that also has a chaotic state. The big difference between these two models is the fact that the Lorenz model has two fixed points while the Rossler model only has one fixed point. A more detailed explanation can be found [here](https://github.com/HPUPhysics-PHY2200-S21/03-project-SpencerTP31/blob/main/03-project-peters.ipynb).
 
 [Go to Project](https://github.com/SpencerTP31/PHY_2200_Portfolio/tree/main/Lorenz_Rossler)
 
@@ -46,7 +46,7 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 ## Vowel Classifier
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+Lastly is a final project done by myself and another classmate of mine Anthony, his GitHub can be found here, [Anthony Demattos](https://github.com/demattosanthony). In this project, we wanted to investigate how Fourier Transforms were used in speech recognition AI. While doing this we came upon the discovery that Mel Spectrograms were the better way of doing this as they provide a more human-like "sound" in the form of a spectrogram. Combined with a convolutional neural network we can take a user's voice and determine what vowel they have said. All the files and a more detailed explanation can be found [here](https://github.com/SpencerTP31/PHY_2200_Portfolio/blob/main/Vowel_Classifier/vowel_classifier.ipynb).
 
 [Go to Project](https://github.com/SpencerTP31/PHY_2200_Portfolio/tree/main/Vowel_Classifier)
 
