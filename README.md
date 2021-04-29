@@ -1,13 +1,24 @@
 # Protfolio Overview
+### By Spencer Peters
 
 ![Project Image](https://github.com/SpencerTP31/PHY_2200_Portfolio/blob/main/WebbSchoolLogo.png)
 
-> This is a ReadMe template to help save you time and effort.
+> Webb School of Engineering at High Point University
+
+---
+
+### Introduction
+This portfolio is my three favorite projects I did throughout my Computational Physics Course (PHY-2200) at High Point University. Throughout this class as a computer science major I was able to incorporate things I had learned throughout my computer science classes and use them to create physics models. The three projects I've decided to showcase are, Magnus Effect on a golf shot, the Rossler and Lorenz Model to dive deeper into Chaotic Behaviors, and lastly using Mel Spectograms in conjunction with AI to create a vowel classifier. The links below will bring you to a complete description of each in this README
+
+- [Magnus Effect](#magnus-effect)
+- [Rossler and Lorenz Model](#rossler-and-lorenz-model)
+- [Vowel Classifier](#vowel-classifier)
+
 
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
+Below are quick access to my projects that I picked to display my work throughout the semester
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -17,10 +28,23 @@ You're sections headers will be used to reference location of destination.
 
 ---
 
-## Description
+## Magnus Effect
 
 Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
 
+--- 
+
+## Rossler and Lorenz Model
+
+Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+
+---
+
+## Vowel Classifier
+
+Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+
+---
 #### Technologies
 
 - Technology 1
