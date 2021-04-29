@@ -1,6 +1,6 @@
 # Protfolio Overview
 
-![Project Image](https://images.app.goo.gl/rr6Y1T9Jf8ASVVV6A)
+![Project Image](https://github.com/SpencerTP31/PHY_2200_Portfolio/blob/main/WebbSchoolLogo.png)
 
 > This is a ReadMe template to help save you time and effort.
 
