@@ -8,7 +8,7 @@
 ---
 
 ### Introduction
-This portfolio is my three favorite projects I did throughout my Computational Physics Course (PHY-2200) at High Point University. Throughout this class as a computer science major I was able to incorporate things I had learned throughout my computer science classes and use them to create physics models. The three projects I've decided to showcase are, Magnus Effect on a golf shot, the Rossler and Lorenz Model to dive deeper into Chaotic Behaviors, and lastly using Mel Spectograms in conjunction with AI to create a vowel classifier. The links below will bring you to a complete description of each in this README
+This portfolio is my three favorite projects I did throughout my Computational Physics Course (PHY-2200) at High Point University. Throughout this class as a computer science major I was able to incorporate things I had learned throughout my computer science classes and use them to create physics models. The three projects I've decided to showcase are, Magnus Effect on a golf shot, the Rossler and Lorenz Model to dive deeper into Chaotic Behaviors, and lastly using Mel Spectograms in conjunction with AI to create a vowel classifier. The links below will bring you to a complete description of each in this README. The book that we used throughout the semester was Computational Modeling and Visualization of Physical Systems with Python By J. Wang
 
 #### Descriptions
 - [Magnus Effect](#magnus-effect)
@@ -26,7 +26,7 @@ This portfolio is my three favorite projects I did throughout my Computational P
 
 ## Magnus Effect
 
-In this project, I investigated the Magnus Effect on a golf ball during its flight. This was one of my most important discoveries during this class as I decided to go off the beaten path and research golf ball flights. I originally was going to model a figure that is shown in the book. When writing the code for this figure I kept getting a slightly different result which leads me to investigate and realize the author had not provided us with his air density and air resistance leading me to infer those. For a more detailed explanation see this [file](https://github.com/SpencerTP31/PHY_2200_Portfolio/blob/main/Magnus_Effect/02-project-peters.ipynb).
+In this project, I investigated the Magnus Effect on a golf ball during its flight. This was one of my most important discoveries during this class as I decided to go off the beaten path and research golf ball flights. I originally was going to model a figure that is shown in the book by J. Wang. When writing the code for this figure I kept getting a slightly different result which leads me to investigate and realize the author had not provided us with his air density and air resistance leading me to infer those. For a more detailed explanation see this [file](https://github.com/SpencerTP31/PHY_2200_Portfolio/blob/main/Magnus_Effect/02-project-peters.ipynb).
 
 [Go to Project](https://github.com/SpencerTP31/PHY_2200_Portfolio/tree/main/Magnus_Effect)
 

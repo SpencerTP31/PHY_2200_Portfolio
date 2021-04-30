@@ -4,7 +4,7 @@ Portfolio For Computational Physics
 By: Spencer Peters and Anthony Demattos
 
 ### Overview 
-This project uses a convolutional nerual network that is capable of determining what vowel a person says. It will transform waveform audio files into mel spectograms which esentially turns it into a computer vision problem rather than audio. The model will be trained on one second audio clips collected from various people. 
+This project uses a convolutional neural network that is capable of determining what vowel a person says. It will transform waveform audio files into Mel spectrograms which essentially turns it into a computer vision problem rather than audio. The model will be trained on one-second audio clips collected from various people. 
 
 ### Directions
 
